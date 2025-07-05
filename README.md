@@ -97,11 +97,12 @@ python export_mesh.py -m <path to trained model> # Export mesh
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{jiang2024horizon,
+@inproceedings{jiang2025horizon,
   title={Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes},
   author={Jiang, Lihan and Ren, Kerui and Yu, Mulin and Xu, Linning and Dong, Junting and Lu, Tao and Zhao, Feng and Lin, Dahua and Dai, Bo},
-  journal={arXiv preprint arXiv:2412.01745},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={26789--26799},
+  year={2025}
 }
 ```
 
